@@ -50,7 +50,7 @@ int wifiConnectV2() {
   } else {
     Serial.println("IP items are NOT default. Doing quick connection.");
     if (quickWifiConnect()) {
-      Serial.println("Failed to connect using quickWifiConnect. Will attempt normalWifiConnect.");
+      Serial.println("Connected using quickWifiConnect.");
       return 2;
     } else {
       Serial.println("Failed to connect using quickWifiConnect. Will attempt normalWifiConnect.");

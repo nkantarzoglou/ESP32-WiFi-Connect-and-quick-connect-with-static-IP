@@ -1,4 +1,4 @@
-WiFi Connect [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AGD8AB4FB6YDU)  
+# WiFi Connect [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=AGD8AB4FB6YDU)  
 
 The aim of this is to allow the user to connect the ESP-32 to the local Wi-Fi network.  
 But once a successful connection occurs, we store the connection data(local_IP, gateway, subnet, primaryDNS, secondaryDNS).  
